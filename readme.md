@@ -1,1 +1,1 @@
-[](worm.png)
+![](worm.png)
